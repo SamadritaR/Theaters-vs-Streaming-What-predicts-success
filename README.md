@@ -14,8 +14,6 @@ This project studies what actually drives movie success across **theatrical rele
 - 🖥️ **Presentation:** [`Theaters vs. Streaming What Predicts Success.pptx`](Theaters%20vs.%20Streaming%20What%20Predicts%20Success.pptx)
 - 🗂️ **Cleaned data:** [`movies_merged.csv`](movies_merged.csv)
 
-> If you later move files into folders, just update these links.
-
 ---
 
 ## 🧭 Project Overview
