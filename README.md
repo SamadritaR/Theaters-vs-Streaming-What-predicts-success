@@ -12,7 +12,7 @@ In that spirit, this project blends **art and analytics** to understand what act
 - 🖼️ **Figures (PDF)** → `figures/Figures_Final_Report.pdf` (final) and `figures/Figures.pdf` (earlier)
 - 🧾 **Reports** → `reports/Final Project Report.pdf`, `reports/Preliminary_Report_Samadrita_Roy.pdf`
 - 🖥️ **Presentation** → `presentation/Theaters vs. Streaming What Predicts Success.pptx`
-- 🗂️ **Data** → put your cleaned dataset in `data/cleaned/` (e.g., `cleaned_dataset.csv`)
+- 🗂️ **Data** → `movies_merged/`
 
 ---
 
